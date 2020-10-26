@@ -1,4 +1,4 @@
-#Nice Select 
+##Nice Select 
 
 A lightweight jQuery plugin that replaces native select elements with customizable dropdowns.
 
